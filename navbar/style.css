@@ -1,0 +1,45 @@
+.parent{
+    padding: 30px;
+    
+}
+.container1{
+    display: solid;
+    display: flex;
+    justify-content:space-between;
+}
+.item2{
+    display: flex;
+    gap: 20px;
+}
+.item-e{
+    padding: 10px 20px ;
+        border-radius: 400px;
+        color: white;
+        background-color: rgb(89, 46, 197);
+        margin-top: -10px;
+        border: none;
+}
+.container2{
+    display: flex;
+    justify-content:space-around;
+    margin-top:20%;
+}
+.heading{
+    font-size: 40px;
+}
+.para{
+    font-size:20px;
+}
+.but{
+    padding: 10px 10px;
+    border-radius:40px;
+    margin-top:40px;
+    background-color: blue;
+    color: aliceblue;
+    border: none;
+    
+}
+img{
+    width:none;
+   height:80vh ; 
+}

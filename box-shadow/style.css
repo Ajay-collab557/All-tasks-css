@@ -1,0 +1,94 @@
+.parent {
+    display: flex;
+    justify-content: space-between;
+    gap:20px;
+    margin: 20px;
+}
+
+.hed1 {
+    text-align: center;
+    box-shadow: inset 0px 0px 10px rgb(27, 193, 19);
+    color: rgb(232, 170, 15);
+}
+
+.box1, .box2, .box3, .box4, 
+.box5, .box6, .box7, .box8, 
+.box9, .box10, .box11, .box12 {
+    width: 200px;
+    height: 200px;
+    display: flex; /* Enables flexbox */
+    align-items: center; /* Centers content vertically */
+    justify-content: center; /* Centers content horizontally */
+    text-shadow: -1px 0 rgb(217, 26, 26), 
+                 0 1px rgb(28, 219, 47), 
+                 1px 0 rgb(87, 36, 180), 
+                 0 -1px rgb(54, 79, 199);
+}
+
+.box1 { box-shadow: 2px 2px 9px red; }
+.box2 { box-shadow: 2px 2px 10px rgb(42, 156, 166); }
+.box3 { box-shadow: 2px 2px 10px rgb(146, 201, 19); }
+.box4 { box-shadow: 2px 2px 10px rgb(22, 10, 190); }
+.box5 { box-shadow: 2px 2px 10px rgb(158, 26, 219); }
+.box6 { box-shadow: 2px 2px 10px rgb(27, 201, 38); }
+.box7 { box-shadow: 2px 2px 10px rgb(28, 171, 210); }
+.box8 { box-shadow: 2px 2px 10px rgb(216, 27, 200); }
+.box9 { box-shadow: 2px 2px 4px 5px rgb(165, 31, 218); }
+.box10 { box-shadow: 2px 2px 4px 5px rgb(146, 92, 92); }
+.box11 { box-shadow: 2px 2px 4px 5px rgb(49, 100, 210); }
+.box12 { box-shadow: 2px 2px 4px 5px rgb(168, 173, 18); }
+.box1:hover{
+ 
+        font-family: "Rubik Vinyl", serif;
+        font-weight: 400;
+        font-style: normal;
+      
+}
+
+.box2:hover{
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 400;
+    font-style: normal;
+}.box3:hover{
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 400;
+    font-style: normal;
+}.box4:hover{
+    font-family: "Rubik Vinyl", serif;
+        font-weight: 400;
+        font-style: normal;
+}.box5:hover{
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 400;
+    font-style: normal;
+}.box6:hover{
+    font-family: "Rubik Vinyl", serif;
+        font-weight: 400;
+        font-style: normal;
+}.box7:hover{
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 400;
+    font-style: normal;
+}.box8:hover{
+    font-family: "Rubik Vinyl", serif;
+        font-weight: 400;
+        font-style: normal;
+}.box9:hover{
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 400;
+    font-style: normal;
+}.box10:hover{
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.box11:hover{
+    font-family: "Rubik Vinyl", serif;
+        font-weight: 400;
+        font-style: normal;
+}
+.box12:hover{
+    font-family: "Rubik Vinyl", serif;
+    font-weight: 400;
+    font-style: normal;
+}

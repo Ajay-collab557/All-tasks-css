@@ -1,0 +1,18 @@
+h1{
+    width: 100%;
+    height:100vh;
+    border:1px 1px 10px 10px;
+    margin-left: auto;
+margin-right: auto;
+box-shadow: -1px 1px 8px 10px rgb(125, 105, 132);
+background-image: url("https://blog.yeasitech.com/wp-content/uploads/2024/01/Top-Frontend-Technologies-1-2048x1154.jpg");
+background-repeat: no-repeat;
+ background-size:  100% 100%;
+background-attachment: fixed;
+}
+#html{
+    background-image: url(https://community-cdn-digitalocean-com.global.ssl.fastly.net/e5y5ptPSFg2LXVAtEYUBr1rx);
+}
+#css{
+    background-image: url();
+}

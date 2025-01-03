@@ -1,0 +1,5 @@
+
+.but1:hover~img{
+    transform:translate(100px);
+    transition: all 2s;
+}

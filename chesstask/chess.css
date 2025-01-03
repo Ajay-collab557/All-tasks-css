@@ -1,0 +1,41 @@
+body{
+    justify-content: center;
+    display: flex;
+}
+
+
+table{
+    border:1px solid black;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 6px rgba(248, 248, 247, 0.882);
+    overflow: hidden;
+}
+   
+.box1{
+    background-color: white;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 6px rgba(241, 242, 240, 0.882);
+    overflow: hidden;
+}
+
+
+.box2{
+    background-color:black;
+   
+}
+
+
+th,td{
+    width:80px;
+    height: 80px;
+    font-size: 50px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 6px rgba(235, 236, 233, 0.882);
+    overflow: hidden;
+}
+
+.box1:hover:hover{
+    transform: translatey(5px);
+    box-shadow: 0 6px 12px rgba(18, 17, 17, 0.2);
+}
